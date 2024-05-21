@@ -1,6 +1,6 @@
 // Use cases for the Symbol primitive datatype
 
-// 2. To store metadata
+// To store metadata
 const length = Symbol( 'length' );
 class Train {
     constructor () {
